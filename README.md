@@ -1,4 +1,6 @@
 # ip-tools
+## 单 ip 查询
+- ip.gs、ip.cn、ip.sb
 
 ## 多出口 ip 查询网站
 - https://ip.skk.moe/
