@@ -2,6 +2,9 @@
 ## 单 ip 查询
 - ip.gs、ip.cn、ip.sb
 
+## IP洁净度检测
+- https://scamalytics.com/
+
 ## 多出口 ip 查询网站
 - https://ip.skk.moe/
   - WebRTC (UDP) IP 查询
