@@ -2,7 +2,8 @@
 ## 单 ip 查询
 - ip.gs、ip.cn、ip.sb
 
-## IP洁净度检测
+## 可信度检测
+- https://ipdata.co/
 - https://scamalytics.com/
 
 ## 多出口 ip 查询网站
